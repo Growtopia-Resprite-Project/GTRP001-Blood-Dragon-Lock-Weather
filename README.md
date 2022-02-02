@@ -33,12 +33,14 @@
     + To find your Growtopia installation folder, right click the Growtopia shortcut on your desktop and click "Open file location"
 3. Extract the contents of `GTRP001-Blood-Dragon-Lock-Weather-Standalone.zip` to `Growtopia\game`
 4. Run Growtopia and see if it works
+    + If any of the contents of `GTRP001-Blood-Dragon-Lock-Weather-Standalone.zip` is also located in `cache`, use the GTRP Client method instead
 
 #### Android
 1. Close Growtopia if it's running
 2. Open `Android\data\com.rtsoft.growtopia\files\cache\game`
 3. Extract the contents of `GTRP001-Blood-Dragon-Lock-Weather-Standalone.zip` to `game`
 4. Run Growtopia and see if it works
+    + If any of the contents of `GTRP001-Blood-Dragon-Lock-Weather-Standalone.zip` was already in `cache` beforehand, this is not possible
 
 #### IOS/MacOS
 Sorry, no info yet.
